@@ -1,0 +1,120 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .style{
+            background:#000;
+            color:white;
+        }
+
+        .boxes{
+            margin-top:50px;
+            margin-bottom:50px;
+        }
+        
+
+        .textcenter {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .Container {
+            width: 960px;
+            margin: 0 auto;
+        }
+
+       
+        header {
+            display: flex;
+            justify-content: space-around;
+        }
+        .logo{
+            width:155px;
+            height:103px;
+        }
+       
+        .logoImg {
+            width: 155px;
+            height: 103px;
+        }
+
+        .article {
+            width: 588px;
+            height: 103px;
+        }
+
+        .content {
+            width: 960px;
+            height: 556px;
+        }
+
+        .title {
+            width: 824px;
+            height: 126px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+        }
+
+        .detail-box {
+            display: flex;
+            justify-content: space-around;
+            text-align: center;
+        }
+
+        .detail-box .nav {
+            width: 394px;
+            height: 467px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .detail-box .detail-article {
+            width: 424px;
+            height: 467px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .pro-list {
+            width: 100%;
+        }
+
+        .box-list {
+            display: flex;
+            /* flex-grow: 1; */
+            justify-content: space-around;
+            list-style: none;
+        }
+
+        .box-list .item {
+            width: 213px;
+            height: 249px;
+        }
+
+        footer {
+            width: 100%;
+            display:flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        footer .left-box{
+            width:550px;
+            height:239px;
+        }
+        footer .right-box{
+            width:261px;
+            height:61px;
+        }
+   
+
+	    section h1{
+		font-size: 2.5rem;
+		text-align: center;
+		margin: 2% auto;
+	}
