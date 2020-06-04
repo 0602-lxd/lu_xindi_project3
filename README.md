@@ -1,5 +1,4 @@
 # lu_xindi_project3
-# lu_xindi_project1
 
 ## Description
 This is upload for Web Development 1,project 3.
